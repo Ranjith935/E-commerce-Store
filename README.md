@@ -1,2 +1,2 @@
 # E-commerce-Store
-A complete E-commerce website with both CMS and dynamic Front-end.
+A e-commerce website that integrates a robust content management system (CMS) with a dynamic, user-friendly front-end. This setup ensures seamless management of products and contents.
